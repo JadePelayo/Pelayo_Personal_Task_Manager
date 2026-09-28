@@ -1,5 +1,5 @@
 
-Project Information
+## Project Information
 
 Project Code: WST21-PM-2026-SF
 
@@ -9,7 +9,7 @@ Course & Year: BSIT - 2nd Year
 
 Database Used: SQLite
 
-Features
+## Features
 
 - Add Task
 - View Tasks
